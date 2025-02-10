@@ -4,7 +4,6 @@ I'm a **Pure Mathematics & Data Science Enthusiast** with a passion for **data-d
 🔹 MSc. in Mathematics | **Pure Mathematics | Data Science | Applied Mathematics | Research**  
 🔹 Passionate about **Machine Learning, Data Analytics & Visualization**  
 🔹 Multilingual: 🇪🇸 🇺🇸 🇯🇵
-
 🔹 Teaching & mentoring experience
 
 # 💻 Languages and Tools:
