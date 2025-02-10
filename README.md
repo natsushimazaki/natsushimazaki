@@ -1,6 +1,7 @@
 ## 👋 Hey there! I'm Natsu Mishi
 
 I'm a **Pure Mathematics & Data Science Enthusiast** with a passion for **data-driven decision-making**.  I have experience in **mathematical modeling, data visualization, and analytics**, and I'm always exploring new ways to use data for impactful insights.  
+
 🔢 MSc. in Mathematics | **Pure Mathematics | Data Science | Applied Mathematics | Research**  
 🧠 Interested in **Machine Learning 🤖, Data Analytics 📈 & Visualization 🎨**  
 🎓 **Teaching & Mentoring Experience** | Guiding students in Mathematics   
